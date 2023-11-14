@@ -13,7 +13,7 @@ If you use the code or data in this repository for your work, please cite the fo
 ## Contents
 
 - `virtual_reality_driving_task.ipynb`: Jupyter notebook (Python) used for analysis.
-- `research_data_sheet.xlsx`: Google Sheet containing the research data.
+- `Implicit_Timing_Anonymized_Young_Group.xlsx`: Google Sheet containing the research data.
 
 ## Instructions
 
