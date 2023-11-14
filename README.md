@@ -8,7 +8,7 @@ This repository contains the Python notebook and Google Sheet associated with th
 
 If you use the code or data in this repository for your work, please cite the following paper:
 
-Pouya, O. R., & Moussavi, Z. (2023). Design and Evaluation of a Virtual Reality-based Driving Task to Investigate Temporal Preparation. CMBES Proceedings, 45.
+## Ranjbar Pouya, O., & Moussavi, Z. (2023). Design and Evaluation of a Virtual Reality-based Driving Task to Investigate Temporal Preparation. CMBES Proceedings, 45.
 
 ## Contents
 
