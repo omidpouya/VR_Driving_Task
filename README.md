@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the Python notebook and Google Sheet associated with the research project titled "Design and Evaluation of a Virtual Reality-based Driving Task to Investigate Temporal Preparation," published in CMBES Proceedings, Volume 45 (2023).
+This repository contains the Python notebook and Google Sheet associated with the research project titled ["Design and Evaluation of a Virtual Reality-based Driving Task to Investigate Temporal Preparation," published in CMBES Proceedings, Volume 45 (2023).](https://proceedings.cmbes.ca/index.php/proceedings/article/view/1008)
 
 ## Citation
 
